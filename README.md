@@ -82,6 +82,4 @@ Note that we have modeled the volume of the inhabited region by each data point 
 
 > **Status:** This manuscript may be subject to future revisions.
 
-> **Material:** This paper was originally written as part of coursework at Simon Fraser University (SFU).
-
-> **Review:** This work received informal feedback from academic researchers at the University of Illinois Urbana–Champaign (UIUC).
+> **Origin:** This manuscript was originally written as part of coursework at Simon Fraser University (SFU). It also received informal feedback from academic researchers at the University of Illinois Urbana–Champaign (UIUC).
