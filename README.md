@@ -1,5 +1,5 @@
 **A Data Scaling Law of a Manifold's Resolution**
-[Click here to view the paper (PDF)](A_Special_Case_of_Nonlinear_Extrapolation_Under_ReLU_and_the_Neural_Tangent_Kernel.pdf)
+[Click here to view the paper (PDF)](A_Data_Scaling_Law_of_a_Manifold_s_Resolution.pdf)
 
 *Author(s)*: Abiel J. Kim
 
