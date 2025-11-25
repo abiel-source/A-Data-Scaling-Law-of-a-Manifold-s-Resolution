@@ -81,3 +81,7 @@ Note that we have modeled the volume of the inhabited region by each data point 
 [Click here to view the paper (PDF)](A_Data_Scaling_Law_of_a_Manifold_s_Resolution.pdf)
 
 > **Status:** This manuscript may be subject to future revisions.
+
+> **Material:** This paper was originally written as part of coursework at Simon Fraser University (SFU).
+
+> **Review:** This work received informal feedback from academic researchers at the University of Illinois Urbana–Champaign (UIUC).
